@@ -1,0 +1,89 @@
+/* CSSのリセット（消さないでください） */
+html, body,
+ul, ol, li,
+h1, h2, h3, h4, h5, h6, p, div {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: "Helvetica Neue",
+    Arial,
+    "Hiragino Kaku Gothic ProN",
+    "Hiragino Sans",
+    Meiryo,
+    sans-serif;
+  background-color: #f9f9f9;
+}
+
+li {
+  list-style: none;
+}
+
+a {
+  text-decoration: none;
+}
+
+*{
+  box-sizing: border-box;
+}
+
+/* ここからCSSを書いていきましょう */
+
+
+header{
+  background-color:#e0e0e0;
+  color:#404040;
+  width:100%;
+  letter-spacing: 1px;
+  height:60px;
+}
+
+.title{
+  font-size:28px;
+  color:black;
+  padding-left: 20px;
+  float:left;
+  display:block;
+  line-height: 60px;
+  margin-right: 40px;
+}
+
+
+
+.Searchーbox{
+    float:right;
+    line-height: normal;
+    margin:15px 5px 15px 0px;
+    padding: 8px 14px;
+    width: 200px;
+    height: 30px;
+    border: 1px solid #888;
+    border-radius: 20px !important;
+    background-color: #fff;
+    font-size: 90%;
+    font-family: "ヒラギノ角ゴ Pro W3","Hiragino Kaku Gothic Pro","メイリオ",Meiryo,sans-serif;
+}
+
+
+.top{
+  background-color:#e0e0e0;
+  display: flex;
+}
+
+.btn{
+  color:#404040;
+  display: block;
+  transition: all 0.5s;
+}
+
+.tbtn{
+  font-size: 15px;
+  padding:0px 20px;
+  line-height: 60px;
+}
+
+.btn:hover{
+ background-color: #606060;
+ color:white;
+}
