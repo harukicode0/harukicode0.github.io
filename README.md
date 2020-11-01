@@ -1,1 +1,1 @@
-# harukiichi.trinningsite
+# harukiichi.tryningsite
