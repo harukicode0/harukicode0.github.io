@@ -1,0 +1,178 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <title>kabupoke</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="./../css/header.css">
+  <link rel="stylesheet" href="./../css/footer.css">
+  <link rel="stylesheet" href="./../css/news.css">
+  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.15.1/css/all.css" integrity="sha384-vp86vTRFVJgpjF9jiIGPEEqYqlDwgyBgEF109VFjmqGmIY/Y4HV4d3Gp2irVfcrp" crossorigin="anonymous">
+</head>
+
+<body>
+  <!-- ここにコードを書く-->
+  <!-- ヘッダーのコードを書く-->
+  <header>
+    <div>
+      <a href="#" id="header-title">カブポケ <i class="fa fa-rocket fa-sm"></i></a>
+      <input placeholder="サイト内検索" class="Searchーbox" name="query" value="" type="text" id="form_query">
+      <nav class="top">
+        <a href="#" class="btn tbtn">ホーム </a>
+        <a href="#" class="btn tbtn">テーマ別</a>
+        <a href="#" class="btn tbtn">運用手法</a>
+        <a href="#" class="btn tbtn">私たち</a>
+      </nav>
+    </div>
+    <div class="clear"></div>
+  </header>
+
+
+
+<div class="container-wrapper">
+  <ul class="news-flex-ul ">
+    <li class="container-news-list">
+      <div class="news">
+        <div class="busi-model">
+          <div class="n-title">
+            <h3>ビジネスモデル</h3>
+          </div>
+          <div class="contents">
+            <img  class="pict" src="../pict/gpch/gp1.png">
+            <p>　</p>
+            <p>セグメントは2つ</p>
+            <h4>デザインパートナー事業</h4>
+            <p>顧客の最上流の戦略設計から最下流のユーザーが触れるデジタルプロダクト開発まで一貫して支援する事業
+<br>具体的には
+<br>１、スマホやsaasのアプリケーションのUI/UXデザイン（＝使いやすいサイト設計や使って感動するサイトの設計をしてくれる）
+<br>２、経営のビジョン・ミッションを元にした組織デザインやブランドイメージのデザイン
+<br>３、顧客企業のデジタルにとどまらないプロダクト全般における戦略・ビジネスモデルのデザイン。（＝この商品を作ってどうしたいのか、どのような仕組みだったらこの商品が成長していくのかなどを定義する）
+</p>
+<p>　</p>
+            <h4>デザインプラットフォーム事業</h4>
+            <p>１フリーランスのデザイナープール（→人件費が安くすむ ）
+<br>２デザインソフトウェアのsaasによる運営（将来的にストックビジネスになる）
+<br>３デザイナーの人材紹介（デザインパートナー事業とのシナジーが大きい）
+</p>
+<p>　</p>
+            <img  class="pict" src="../pict/gpch/gp2.png">
+          </div>
+        </div>
+
+        <div class="Settlement">
+          <div class="n-title nt-contrl">
+            <h3>決算</h3>
+          </div>
+          <div class="contents">
+            <img  class="pict" src="../pict/gpch/gp3.png">
+            <p>　</p>
+            <p>　</p>
+             <h4>セグメント１、デザインパートナー事業</h4>
+            <p>売上はプロジェクトの単価×数。下図はそれぞれの推移</p>
+            <img  class="pict" src="../pict/gpch/gp4.png">
+            <p>売上増加要因はプロジェクトの大型化が進み、プロジェクト単価が増加したこと。</p>
+            <p>　</p>
+            <h4>セグメント２、デザインプラットフォーム事業</h4>
+            <img  class="pict" src="../pict/gpch/gp5.png">
+            <p>　</p>
+            <p>Saasの売上は減少。売上が大きく増加したgoodpatch Anywhere（フリーランスたちに仕事をやってもらう事業、リモートを軸に全国で仕事をやってもらう）を確認↓。</p>
+
+            <img  class="pict" src="../pict/gpch/gp6.png">
+            <p>固定費の小さい人材プールが年々拡大している⇦売り上げに貢献</p>
+          </div>
+        </div>
+
+        <div class="market">
+          <div class="n-title nt-contrl">
+            <h3>市場規模</h3>
+          </div>
+          <div class="contents">
+            <p>国内におけるデジタルエージェンシー市場の内、当社がカーバーしている領域（推定）。<br>4062億円、成長率14.4％＝5年で約2倍</p>
+            <img  class="pict" src="../pict/gpch/gp7.png">
+          </div>
+        </div>
+
+        <div class="core">
+          <div class="n-title nt-contrl">
+            <h3>コア＝強み</h3>
+          </div>
+          <div class="contents">
+            <p>１、	戦略策定からプロダクト開発まで一貫して支援。コンサルやSIerと差別化</p>
+            <img  class="pict" src="../pict/gpch/gp8.png">
+            <p>　</p>
+            <p>　</p>
+            <p>２、	体系化されたデザインノウハウとナレッジの蓄積</p>
+            <img  class="pict" src="../pict/gpch/gp9.png">
+            <p>ザインを感性の成せるものとするのではなく、誰でも使える知識にしようとしている。この仕組みはすごいぞ！</p>
+            <p>　</p>
+            <p>　</p>
+            <p>３、	優秀なデザイナーを定着させる組織文化</p>
+            <img  class="pict" src="../pict/gpch/gp10.png">
+            <p>デザイナーにとって魅力のある職場にすることで優秀なデザイナーを定着させているぞ！具体的には上図を見てくれ！！</p>
+          </div>
+        </div>
+
+        <div class="theo-prc">
+          <div class="n-title nt-contrl">
+            <h3>その他（株価など）</h3>
+          </div>
+          <div class="contents">
+            <p>まとめると、goodpatchはコンサルとSIerを合体させた企業。加えて
+            デザインの属人性を下げるように知識の蓄積の仕組みを確立する工夫や
+          優秀なデザイナーを組織に定着させるための仕組みが強みとなっているぞ！
+        <br>売上を大きく伸ばすためにはさらにたくさんの人が必要な」ビジネスモデルだが、
+        フリーランスのプラットフォームを運営や開発アプリを作成するなど、売上増加の起爆剤
+      となりえる種まきを行っているぞ！
+    <br>　<br>2021年の予想一株あたり利益31.2円で、現在PER約80倍と高い水準だが、
+    これが50倍近くになったら購入を考えるかな！</p>
+          </div>
+        </div>
+      </div>
+    </li>
+
+    <il class="ad-list">
+      <div class="Advertising ad-1">
+        <p>俺頑張った</p>
+        <p>この欄に載せるのは広告、「私たちの内容の要約」とツイッターやインスタグラム、
+        人気記事ランキング、将来的にはタグ一蘭やカテゴリーをおいてもいいかもしれない、
+      noteを売るのもありか？</p>
+      </div>
+      <div class="Advertising ad-2">
+        <p>aaaaaaaaaaaa</p>
+        <p>aaaaaaaaaaaaaaaaaaa</p>
+        <p>aaaaaaaaaaaaaaaaaaaaaa</p>
+      </div>
+      <div class="Advertising ad-3">
+        <p>aaaaaaaaaaaa</p>
+        <p>aaaaaaaaaaaaaaaaaaa</p>
+        <p>aaaaaaaaaaaaaaaaaaaaaa</p>
+      </div>
+      <div class="Advertising ad-4">
+        <p>aaaaaaaaaaaa</p>
+        <p>aaaaaaaaaaaaaaaaaaa</p>
+        <p>aaaaaaaaaaaaaaaaaaaaaa</p>
+      </div>
+      </li>
+
+
+  </ul>
+<div>
+
+  <footer>
+    <div class="footer-left">
+      <!--ロゴをスパンで挟むか、いマージで貼り付けるか-->
+      <a href="#"><i class="fa fa-rocket fa-lg"></i></a>
+    </div>
+    <a href="#" class=" logo twi"><i class="fab fa-twitter fa-2x fa-fw" data-fa-transform="right-3"></i></a>
+    <a href="#" class="logo insta"><i class="fab fa-instagram fa-2x fa-fw"></i></a>
+    <nav class="footer-btn">
+      <a href="#" class="btn fbtn">プロフィール</a>
+      <a href="#" class="btn fbtn">免責事項</a>
+      <a href="#" class="btn fbtn">お問い合わせ</a>
+    </nav>
+  </footer>
+
+  </body>
+
+  </html>
